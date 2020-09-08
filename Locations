@@ -1,0 +1,211 @@
+[
+    {
+        "name": "Parking Lot 1 ",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.9672618,
+            "longitude": 151.1024115,
+        },
+        "capacity": 24,
+        "occupants": 0
+    },
+    {
+        "name": "Parking Lot 2",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.9646376,
+            "longitude": 151.1006654,
+        },
+        "capacity": 52,
+        "occupants": 0
+    },
+    {
+        "name": "Parking Lot 3",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.9697031,
+            "longitude": 151.1145284,
+        },
+        "capacity": 29,
+        "occupants": 0 },
+    },
+    {
+        "name": "Parking Lot 4",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.7549344,
+            "longitude": 151.2853080,
+        },
+        "capacity": 35,
+        "occupants": 0 },
+    },
+    {
+        "name": "Parking Lot 5",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.8453633,
+            "longitude": 151.0606669,
+        },
+        "capacity": 44,
+        "occupants": 0 },
+    },
+    {
+        "name": "Parking Lot 6",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.8392338,
+            "longitude": 151.0321138,
+        },
+        "capacity": 65,
+        "occupants": 0 },
+    },
+    {
+        "name": "Parking Lot 7",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.9627192,
+            "longitude": 151.1323895,
+        },
+        "capacity": 86,
+        "occupants": 0 },
+    },
+    {
+        "name": "Parking Lot 8",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.7662771,
+            "longitude": 151.2663629,
+        },
+        "capacity": 79,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 9",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.8971586,
+            "longitude": 151.2184526,
+        },
+        "capacity": 20,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 10",
+        "state": "New South Wales",
+        "coordinates": {
+            "latitude": -33.8202579,
+            "longitude": 151.1948468,
+        },
+        "capacity": 29,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 1",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -37.8099371,
+            "longitude": 144.9627874,
+        },
+        "capacity": 65,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 2",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -37.8147713,
+            "longitude": 144.9634325,
+        },
+        "capacity": 53,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 3",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -38.1878177,
+            "longitude": 145.0897224,
+        },
+        "capacity": 90,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 4",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -37.8046397,
+            "longitude": 144.8618549,
+        },
+        "capacity": 40,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 5",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -37.9065473,
+            "longitude": 145.0051677,
+        },
+        "capacity": 39,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 6",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -37.9046804,
+            "longitude": 145.0024432,
+        },
+        "capacity": 19,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 7",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -37.7896876,
+            "longitude": 144.8857272,
+        },
+        "capacity": 85,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 8",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -38.1829614,
+            "longitude": 145.0904160,
+        },
+        "capacity": 73,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 9",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -37.8181533,
+            "longitude": 144.9676359,
+        },
+        "capacity": 31,
+        "occupants": 0 },
+   },
+   {
+        "name": "Parking Lot 10",
+        "state": "Victoria",
+        "coordinates": {
+            "latitude": -37.8108181,
+            "longitude": 144.9709870,
+        },
+        "capacity": 61,
+        "occupants": 0 },
+   }
+]
+        
+        
+        
+        
+        
+        
+    
+        
+   
